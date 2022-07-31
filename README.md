@@ -1,2 +1,2 @@
 # VR-Gardening
-VR Project
+VR Gardening Simulation Project
